@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level Btn
+  - Lock
+  - Location Icon
+  - Vehicle Parent
+  - NPC Parent
+  - NPC Spawner
+  - Pause Menu Button
+  - Setting Menu
+  - Bubble
+  - Created Bubbles
+  - Location Icon Second
+  - Level Manager
+  - Scene Manager
+  - Coin
+  - Audio Manager
+  - NPC
+  - Dialogue System Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 494731163
+    locked: 0
+  - name: Road
+    uniqueID: 669221867
+    locked: 0
+  - name: View
+    uniqueID: 2861053653
+    locked: 0
+  - name: Environment Items
+    uniqueID: 2450586327
+    locked: 0
+  - name: Characters & NPCs
+    uniqueID: 1561674799
+    locked: 0
+  - name: Player
+    uniqueID: 3983405903
+    locked: 0
+  - name: Useful Items
+    uniqueID: 4076913173
+    locked: 0
+  - name: Vehicle
+    uniqueID: 1264949687
+    locked: 0
